@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEPACC", "SEPACC\SEPACC.csproj", "{5DBB7087-F7CB-4B40-AA9D-38EFE57A1B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEPACC.Tests", "SEPACC.Tests\SEPACC.Tests.csproj", "{DA61CB89-2A63-449C-836B-DE059C9498D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBB7087-F7CB-4B40-AA9D-38EFE57A1B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBB7087-F7CB-4B40-AA9D-38EFE57A1B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBB7087-F7CB-4B40-AA9D-38EFE57A1B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBB7087-F7CB-4B40-AA9D-38EFE57A1B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA61CB89-2A63-449C-836B-DE059C9498D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA61CB89-2A63-449C-836B-DE059C9498D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA61CB89-2A63-449C-836B-DE059C9498D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA61CB89-2A63-449C-836B-DE059C9498D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F09A4E8-24C3-462A-AD1D-FB170B62FFB9}
+	EndGlobalSection
+EndGlobal
